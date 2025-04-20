@@ -1,5 +1,5 @@
 #!/bin/bash
+#This is practice
 #
-#This is a learing script
+#
 x=a+b
-echo "addition"
